@@ -1,2 +1,2 @@
 # insertion-project-patika.dev
-https://github.com/atakancobanoglu
+www.patika.dev
